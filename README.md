@@ -26,4 +26,10 @@
 
 # 效果演示
 
-![Demo.gif](https://github.com/sanshuifeibing/EasyWss/blob/master/Screenshot/Demo.gif)
+![Demo.gif](https://github.com/sanshuifeibing/EasyWss/blob/master/Screenshot/Demo.gif)  
+
+# 参考
+
+感谢：  
+
+https://github.com/Aruelius/wenshushu
